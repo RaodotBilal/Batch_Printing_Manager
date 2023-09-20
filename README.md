@@ -20,4 +20,4 @@ This Flutter project is a Windows app designed to simplify the process of printi
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/RaodotBilal?tab=repositories (Change Latter)
+   git clone https://github.com/RaodotBilal/Batch_Printing_Manager.git
